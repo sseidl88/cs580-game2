@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/samue/Documents/KSU/seniorKSU/second semester/game_dev/MonoGameWindowsStarter-master/MonoGameWindowsStarter-master/MonoGameWindowsStarter/Content/TOO_long.mp3</SourceFile>
+  <SourceTime>2020-02-11T11:17:49.9647586-06:00</SourceTime>
+  <DestFile>C:/Users/samue/Documents/KSU/seniorKSU/second semester/game_dev/MonoGameWindowsStarter-master/MonoGameWindowsStarter-master/MonoGameWindowsStarter/Content/bin/Windows/Content/TOO_long.xnb</DestFile>
+  <DestTime>2020-02-11T11:20:09.8049069-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/samue/Documents/KSU/seniorKSU/second semester/game_dev/MonoGameWindowsStarter-master/MonoGameWindowsStarter-master/MonoGameWindowsStarter/Content/bin/Windows/Content/TOO_long.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/samue/Documents/KSU/seniorKSU/second semester/game_dev/MonoGameWindowsStarter-master/MonoGameWindowsStarter-master/MonoGameWindowsStarter/Content/Laser_Shoot7.wav</SourceFile>
+  <SourceTime>2020-02-11T13:08:48.6299412-06:00</SourceTime>
+  <DestFile>C:/Users/samue/Documents/KSU/seniorKSU/second semester/game_dev/MonoGameWindowsStarter-master/MonoGameWindowsStarter-master/MonoGameWindowsStarter/Content/bin/Windows/Content/Laser_Shoot7.xnb</DestFile>
+  <DestTime>2020-02-11T13:55:04.1277006-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
